@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SortingHat</string>
+    <string name="speech_prompt">What do you say?</string>
+    <string name="speech_not_supported">No speech service found</string>
+    <string name="mute">MUTE</string>
+    <string name="unmute">UNMUTE</string>
+    <string name="media_not_found">Unable to locate audio file to play</string>
+    <string name="title_activity_btsetup">BTSetup</string>
+</resources>
